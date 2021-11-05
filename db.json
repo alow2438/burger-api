@@ -1,0 +1,33 @@
+{
+    "burgers": [
+      {
+        "id": 0,
+        "name": "Classic American Burger",
+        "starRating": 3.5,
+        "description": "A mouth-watering honest beef burger",
+        "ingredients": [
+          "beef",
+          "american cheese",
+          "burger sauce",
+          "mustard",
+          "tomatoes",
+          "pickes",
+          "onion",
+          "lettuce"
+        ]
+      },
+      {
+        "id": 1,
+        "name": "Fire and Ice Burger",
+        "starRating": 5,
+        "description": "Burger with fried sweet pickles",
+        "ingredients": [
+          "beef",
+          "fried sweet pickles",
+          "secret sauce",
+          "cheddar"
+        ]
+      }
+    ]
+}
+
